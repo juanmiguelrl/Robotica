@@ -8,7 +8,9 @@ Hemos definido 6 posibles estados en los que se puede encontrar el robot. Los di
 4. Abandona línea por la izquierda
 5. Abandona línea por la derecha
 6. Resto de casos
+
 Acciones
+
 Las acciones definidas para esta práctica son:
 1. Girar izquierda
 2. Girar derecha
